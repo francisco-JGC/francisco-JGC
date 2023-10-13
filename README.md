@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://chicodev.vercel.app" target="_blank">Portfolio</a> ~
-  <a href="https://www.linkedin.com/in/francisco-garcia-94a2a2232/" target="_blank">Linkedin</a>
+  <a href="https://www.linkedin.com/in/francisco-garcia-94a2a2232/" target="_blank">Linkedin</a> ~
+  <a href="https://www.tiktok.com/@chico.dev?is_from_webapp=1&sender_device=pc" target="_blank">Tik Tok</a>
 </p>
 
 ---
