@@ -3,7 +3,7 @@
    <h3 align="center">👋 Hello! I'm Francisco 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm <strong>a Full Stack JavaScript Developer</strong> with +2 years of experience.<br />
+<p align="center">I'm <strong>a Full Stack JavaScript Developer</strong> with +3 years of experience.<br />
 
 <p align="center">
   <a href="https://chicodev.vercel.app" target="_blank">Portfolio</a> ~
